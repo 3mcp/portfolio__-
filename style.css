@@ -163,7 +163,7 @@ section.sobre .flex{
 
 .sobre .txt-sobre{
     color: #fff;
-    max-width: 500px;
+    max-width: 1000px;
 }
 
 .sobre .txt-sobre h2{
@@ -177,7 +177,7 @@ section.sobre .flex{
 }
 
 .sobre .txt-sobre p{
-    margin: 20px 0;
+    margin: 40px 0;
     text-align: justify;
 }
 
